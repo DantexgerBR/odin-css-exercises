@@ -1,0 +1,27 @@
+@font-face {
+    font-family: DejaVuSans;
+    src: url(DejaVuSans.ttf);
+}
+
+.number-1 {
+    background-color: rgb(217, 121, 145);
+    font-family: dejavusans;
+}
+
+#oneid {
+    color: rgb(0, 0, 255);
+    font-family: dejavusans;
+    
+    font-size: 36px;
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#fourid {
+    background-color: rgb(109, 237, 143);
+    font-family: dejavusans;
+    font-weight: bold;
+    font-size: 24px;
+}
